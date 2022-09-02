@@ -1,4 +1,6 @@
 # ML-Assignment-1
+Name: Sai Nikhil Reddy Vatti
+Student Id: 700743280
 ## Question 1
 sort() is used to sort the ages and the first element will be the min and last element will be of max in
 the list and median is found by adding middle elements or directly taking middle element based on
