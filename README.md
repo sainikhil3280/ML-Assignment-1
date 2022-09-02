@@ -1,5 +1,5 @@
 # ML-Assignment-1
-Name: Sai Nikhil Reddy Vatti
+Name: Sai Nikhil Reddy Vatti <br />
 Student Id: 700743280
 ## Question 1
 sort() is used to sort the ages and the first element will be the min and last element will be of max in
